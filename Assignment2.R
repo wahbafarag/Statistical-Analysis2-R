@@ -1,6 +1,3 @@
-# Wahby Mustafa Farag      20198098
-# Reem Ali Abdelrahman     20198043
-
 #install.packages("corrplot")
 #BiocManager::install("preprocessCore")
 
